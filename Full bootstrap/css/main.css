@@ -1,0 +1,56 @@
+:root {
+  --primary-colour:green;
+}
+
+.menu-items {
+  color: black;
+}
+
+.menu-items-right {
+  color: black;
+  font-weight: normal;
+}
+
+.navbar .navbar-brand span {
+  color: var(--primary-colour);
+}
+
+.big-text {
+  font-size: 2.7em;
+  font-weight: bold;
+  color: gray;
+  text-align: center;
+}
+
+.text-in-table {
+  font-weight: normal;
+  color: green;
+  font-size: large;
+  margin: 10px;
+  text-align: center;
+  padding: 10px;
+  background-color: black;
+  cursor: pointer;
+}
+
+.about-hd {
+  color: black;
+  font-size: 1.5em;
+  font-weight: normal;
+}
+
+.imo-illu {
+  margin: 1em;
+}
+
+.contact {
+  font-size: 1.4em;
+  color: White;
+  font-weight: bold;
+  background-color: green;
+  cursor: pointer;
+  border: green;
+  border-radius: .9em;
+  padding: .2em .5em .3em .5em;
+}
+/*# sourceMappingURL=main.css.map */
